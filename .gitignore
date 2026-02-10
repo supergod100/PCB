@@ -1,0 +1,9 @@
+3dmodels/
+3rdparty/
+plugins/
+scripting/
+template/
+projects/
+main/main-backups
+
+.DS_Store
