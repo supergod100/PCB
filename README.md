@@ -4,18 +4,19 @@
 - footprints: nRF52840_BLE_MCUのフットプリント
 
 # フォルダ構成
-Documents/KiCad/9.0/<br>
-
-footprints<br>
-│   └── Original.pretty<br>
-│       └── nRF52840_BLE_MCU.kicad_mod<br>
-├── main<br>
-│   ├── fp-info-cache<br>
-│   ├── main<br>
-│   ├── main.kicad_pcb<br>
-│   ├── main.kicad_prl<br>
-│   ├── main.kicad_pro<br>
-│   └── main.kicad_sch<br>
-└── symbols<br>
-       ├── Original.bak<br>
-       └── Original.kicad_sym<br>
+```
+Documents/KiCad/9.0/
+    ├── footprints
+    │   └── Original.pretty
+    │       └── nRF52840_BLE_MCU.kicad_mod
+    ├── main
+    │   ├── fp-info-cache
+    │   ├── main
+    │   ├── main.kicad_pcb
+    │   ├── main.kicad_prl
+    │   ├── main.kicad_pro
+    │   └── main.kicad_sch
+    └── symbols
+        ├── Original.bak
+        └── Original.kicad_sym
+```
