@@ -1,4 +1,4 @@
-27099805708533028
+27101576476462366
 Audio_Module
 Reverb_BTDR-1H
 Digital Reverberation Unit, http://www.belton.co.kr/inc/downfile.php?seq=17&file=pdf (footprint from http://www.uk-electronic.de/PDF/BTDR-1.pdf)
@@ -75040,12 +75040,19 @@ IR Reflective Optical Sensor with Transistor Output TCRT5000 Vishay Distance Sen
 4
 4
 Original
-nRF52840_BLE_MCU
-DIP32 700mil, pitch 2.54mm, drill 1.1mm
-DIP32 700mil 2.54mm nRF52840
+AE-NRF52840_DIP32_700mil
+Akizuki AE-NRF52840 (MDBT50Q-1MV2) DIP32 700mil, 2.54mm pitch, drill 1.1mm, left pins 10-12 missing
+AE-NRF52840 nRF52840 DIP32 700mil Akizuki
 0
-32
-32
+29
+29
+Original
+test
+AE-NRF52840 header footprint. 2.54mm pitch, 700mil row spacing. Pads 10-12 not present.
+AE-NRF52840 nRF52840 2.54mm 700mil
+0
+29
+29
 Oscillator
 Oscillator_DIP-8
 Oscillator, DIP8,http://cdn-reichelt.de/documents/datenblatt/B400/OSZI.pdf
